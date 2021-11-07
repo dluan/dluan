@@ -32,5 +32,5 @@
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dluan&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dluan&layout=compact&langs_count=4&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dluan&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
