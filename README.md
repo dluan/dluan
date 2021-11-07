@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🤯 O Front geralmente precisa do back-end, portanto agosto de utilizar alguns Hadless CMS como: Strapi e graphcms</strong>
+  🤯 O Front geralmente precisa do back-end, portanto gosto de utilizar alguns Hadless CMS como: Strapi e graphcms</strong>
 </p>
 
 <p align="left">
