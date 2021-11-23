@@ -21,11 +21,11 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dluancr" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/dluancr" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
   
-  <a href="https://twitter.com/dluancr" alt="Twitter">
+  <a href="https://twitter.com/dluancr" alt="Twitter" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1C1C1C?style=for-the-badge&logo=Twitter&logoColor=00FFFF&link=https://twitter.com/dluancr"/>
   </a>
 </p>
