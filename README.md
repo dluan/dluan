@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  💡 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Chakra UI, ReactJS, Next.js e Styled Components.</strong>
+  💡 Tecnologias: <strong>HTML, CSS, JavaScript, Chakra UI, Stitches, Radix-UI, ReactJS e Next.js.</strong>
 </p>
 
 <p align="left">
-  🤯 O Front geralmente precisa do back-end, portanto gosto de utilizar alguns Hadless CMS como: Strapi e graphcms</strong>
+  🤯 Em trabalhos que necessita de comunicação com back-end, gosto de utilizar alguns Hadless CMS como: Strapi ou graphcms</strong>
 </p>
 
 <p align="left">
@@ -21,11 +21,15 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dluancr" alt="Linkedin" target="_blank">
+  <a href="https://www.dluan.com.br?utm_source=github.com%2Fdluan&utm_medium=btnProfile&utm_campaign=socialProfile" alt="Link do meu site" target="_blank">
+    <img src="https://img.shields.io/badge/-Meu site-1C1C1C?style=for-the-badge&logo=googlechrome&logoColor=00FFFF"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/dluancr" alt="Link para meu Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
   
-  <a href="https://twitter.com/dluancr" alt="Twitter" target="_blank">
+  <a href="https://twitter.com/dluancr" alt="Link para meu Twitter" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1C1C1C?style=for-the-badge&logo=Twitter&logoColor=00FFFF&link=https://twitter.com/dluancr"/>
   </a>
 </p>
