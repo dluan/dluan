@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🤯 Em trabalhos que necessita de comunicação com back-end, gosto de utilizar alguns Hadless CMS como: Strapi ou graphcms</strong>
+  🤯 Trabalho com Hadless CMS para back-end: Strapi, graphcms, Directus</strong>
 </p>
 
 <p align="left">
-  🧰 Ferramentas: <strong>VSCode, Figma, Pipefy, Netlify, Vercel, e GitHub.</strong>
+  🧰 Ferramentas: <strong>VSCode, Figma, Pipefy, Netlify, Vercel, e GitHub, Notion, AWS.</strong>
 </p>
 
 <p align="left">
