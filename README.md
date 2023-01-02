@@ -1,23 +1,23 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🧍 Olá, meu nome é Denner Luan. Sou <strong>Desenvolvedor Front-End</strong> e no momento estudo <strong>Gestão de TI</strong>.
+  🧍 Olá, meu nome é Denner Luan. Trabalho com <strong>Desenvolvimento Front-End</strong> e <strong>Gestão de TI</strong>.
 </p>
 
 <p align="left">
-  💡 Tecnologias: <strong>HTML, CSS, JavaScript, Chakra UI, Stitches, Radix-UI, ReactJS e Next.js.</strong>
+  💡 Tecnologias: <strong>HTML, CSS, JavaScript, Tailwindcss, Chakra UI, Stitches, Radix-UI, ReactJS e Next.js.</strong>
 </p>
 
 <p align="left">
-  🤯 Trabalho com Hadless CMS para back-end: Strapi, graphcms, Directus</strong>
+  🤯 Trabalho com Hadless CMS para back-end: Strapi, Hygraph, Directus</strong>
 </p>
 
 <p align="left">
-  🧰 Ferramentas: <strong>VSCode, Figma, Pipefy, Netlify, Vercel, e GitHub, Notion, AWS.</strong>
+  🧰 Ferramentas: <strong>VSCode, Figma, Pipefy, Netlify, Vercel, GitHub, Notion e AWS.</strong>
 </p>
 
 <p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+  💌 Se você deseja bater um papo comigo, não hesite em enviar uma mensagem.
 </p>
 
 <p align="left">
