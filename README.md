@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
-  💡 Tecnologias: <strong>HTML, CSS, JavaScript, Tailwindcss, Chakra UI, Stitches, Radix-UI, ReactJS e Next.js.</strong>
+  💡 Tecnologias: <strong>HTML, CSS, JavaScript, ReactJS e Next.js, Tailwindcss, Radix-UI.</strong>
 </p>
 
 <p align="left">
-  🤯 Trabalho com Hadless CMS para back-end: Strapi, Hygraph, Directus</strong>
+  🤯 Trabalho com Hadless CMS para back-end: Sanity e Hygraph</strong>
 </p>
 
 <p align="left">
-  🧰 Ferramentas: <strong>VSCode, Figma, Pipefy, Netlify, Vercel, GitHub, Notion e AWS.</strong>
+  🧰 Ferramentas: <strong>VSCode, Figma, Pipefy, Vercel, GitHub, Notion e AWS.</strong>
 </p>
 
 <p align="left">
