@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.dluan.com.br?utm_source=github.com%2Fdluan&utm_medium=btnProfile&utm_campaign=socialProfile" alt="Link do meu site" target="_blank">
+  <a href="https://personal-website-denner-luans-projects.vercel.app/?utm_source=github.com%2Fdluan&utm_medium=btnProfile&utm_campaign=socialProfile" alt="Link do meu site" target="_blank">
     <img src="https://img.shields.io/badge/-Meu site-1C1C1C?style=for-the-badge&logo=googlechrome&logoColor=00FFFF"/>
   </a>
   
@@ -29,9 +29,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
   
-  <a href="https://twitter.com/dluancr" alt="Link para meu Twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1C1C1C?style=for-the-badge&logo=Twitter&logoColor=00FFFF&link=https://twitter.com/dluancr"/>
-  </a>
+
 </p>
 
 <!--
